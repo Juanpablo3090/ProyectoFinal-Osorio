@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Aspiradora robot Electrolux Erb40",
+      "precio": 400,
+      "descripcion": "Perfecta tanto para barrer como aspirar",
+      "categoria": "Electrónica",
+      "imagen": "img/Robot_Vacuum_ERB40_ChargingStation_Electrolux_1000x1000.webp"
+    },
+    
+    {
+      "nombre": "Trapeadora",
+      "precio": 27,
+      "descripcion": "Primordial para tu hogar, de excelente calidad.",
+      "categoria": "Hogar",
+      "imagen": "img/Trapeador-o-trapeadora.webp"
+    },
+
+    {
+      "nombre": "Nike Air Force 1'07",
+      "precio": 200,
+      "descripcion": "Perfectos para cualquier ocasión.",
+      "categoria": "Moda",
+      "imagen": "img/194500874572_1_20240126120000-mrtPeru.webp"
+    },
+
+    {
+      "nombre": "Whey sabor cookies & cream",
+      "precio": 87,
+      "descripcion": "Diseñado para ofrecer el mejor rendimiento.",
+      "categoria": "Deportes",
+      "imagen": "img/D_NQ_NP_848710-MLA51813599280_102022-O.webp"
+    }
+]  
